@@ -1,0 +1,12 @@
+.nav{
+  grid-area: n;
+  background: rgb(100, 124, 172);
+}
+
+.item{
+  text-decoration: none;
+}
+
+/* .active{
+  color: tomato;
+}  */

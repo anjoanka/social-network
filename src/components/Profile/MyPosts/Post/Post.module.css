@@ -1,0 +1,17 @@
+
+/* .img-one-content{
+  width: 30%;
+}
+
+.img-two-content{
+  width: 10%;
+} */
+
+.item{
+  color: greenyellow;
+}
+
+.item img{
+  width: 50px;
+  border-radius: 50px;
+}
